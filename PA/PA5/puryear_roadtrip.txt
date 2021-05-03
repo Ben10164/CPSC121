@@ -1,0 +1,32 @@
+Redmond, WA
+
+20000
+Legoland, CA
+1
+
+4000
+Disneyland, CA
+3
+
+1000
+San Francisco , CA
+2
+
+30000
+Las Vegas, NV
+3
+
+27500
+Grand Canyon, AZ
+1
+
+246500
+New York City, NY
+5
+
+22900
+The White House, DC
+2
+
+96700.7
+Panama City, FL

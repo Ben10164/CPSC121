@@ -1,0 +1,17 @@
+Redmond, WA to Legoland, CA: 12.4301
+Legoland, CA to Disneyland, CA: 2.48602
+Disneyland, CA to San Francisco , CA: 0.621504
+San Francisco , CA to Las Vegas, NV: 18.6451
+Las Vegas, NV to Grand Canyon, AZ: 17.0914
+Grand Canyon, AZ to New York City, NY: 153.201
+New York City, NY to The White House, DC: 14.2324
+The White House, DC to Panama City, FL: 60.0999
+
+**Road Trip Stats**
+Number of waypoints on roadtrip: 8
+Number of days on roadtrip: 19 days
+Total miles traveled on roadtrip: 276 miles
+Longest roadtrip distance between waypoints is Grand Canyon, AZ to New York City, NY: 153 miles
+Longest roadtrip days at once is New York City, NY: 5 days
+Average roadtrip distance between stops is: 34.5 miles
+Average roadtrip days spent at one waypoint: 2.375 days
